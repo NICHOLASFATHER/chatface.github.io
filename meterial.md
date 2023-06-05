@@ -1,6 +1,6 @@
 # ChatFace: Chat-Guided Real Face Editing via Diffusion Latent Space Manipulation
 
-![1685677075942](meterial.assets/1685677075942.png)
+![1685677075942](git_page/meterial.assets/1685677075942.png)
 
 ​																						paper    							
 
@@ -12,30 +12,30 @@ Editing real facial images is a crucial task in computer vision with significant
 
 ## ChatFace
 
- <center class="half">    <img src="meterial.assets/1685676355805.png" width="300"/>    <img src="meterial.assets/1685676365976.png" width="300"/> </center> 
+ <center class="half">    <img src="git_page/meterial.assets/1685676355805.png" width="300"/>    <img src="git_page/meterial.assets/1685676365976.png" width="300"/> </center> 
 
 ## Results
 
-![1685677189768](meterial.assets/1685677189768.png)
+![1685677189768](git_page/meterial.assets/1685677189768.png)
 
-![1685677278217](meterial.assets/1685677278217.png)
+![1685677278217](git_page/meterial.assets/1685677278217.png)
 
-![1685677554214](meterial.assets/1685677554214.png)
+![1685677554214](git_page/meterial.assets/1685677554214.png)
 
 ## **More Results:** real image editing
 
-![1685678109344](meterial.assets/1685678109344.png)
+![1685678109344](git_page/meterial.assets/1685678109344.png)
 
 ## **More Results:**  multi-attribute manipulation 
 
-![1685678160455](meterial.assets/1685678160455.png)
+![1685678160455](git_page/meterial.assets/1685678160455.png)
 
 ## **More Results:**  editing strength control
 
-![1685678241884](meterial.assets/1685678241884.png)
+![1685678241884](git_page/meterial.assets/1685678241884.png)
 
 ## **Comparisons** with GAN-based, Diffusion-based methods
 
-![1685682775992](meterial.assets/1685682775992.png)
+![1685682775992](git_page/meterial.assets/1685682775992.png)
 
-![1685682793281](meterial.assets/1685682793281.png)
+![1685682793281](git_page/meterial.assets/1685682793281.png)
